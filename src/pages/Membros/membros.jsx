@@ -4,7 +4,7 @@ import Header from '../../components/Cabecalho/cabecalho';
 import Rodape from '../../components/Rodape/rodape';
 import styles from './membros.module.css'
 
-export default function Membros() {
+export default function membros() {
   return (
     <div>
       <header>

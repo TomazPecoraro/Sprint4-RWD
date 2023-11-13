@@ -3,7 +3,7 @@ import Header from '../../../components/Cabecalho/cabecalho';
 import Link from 'next/link';
 import styles from './cadastro.module.css';
 
-export default function CadastroBike2() {
+export default function cadastrobike2() {
     return (
         <div>
             <header>

@@ -3,7 +3,7 @@ import Header from '../../../components/Cabecalho/cabecalho';
 import Link from 'next/link';
 import styles from './resultados.module.css';
 
-export default function Reprovado() {
+export default function reprovado() {
     return (
         <div>
             <header>

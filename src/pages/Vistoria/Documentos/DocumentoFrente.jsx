@@ -4,7 +4,7 @@ import Link from 'next/link';
 import Image from "next/image";
 import styles from './documento.module.css'
 
-export default function DocumentoFrente() {
+export default function documentofrente() {
     return (
         <div>
             <header>
