@@ -13,7 +13,7 @@ export default function Cabecalho() {
             <Link href="/">Home</Link>
           </div>
           <div className={styles.botao}>
-            <Link href="/Vistoria/Cadastros/cadastro">Vistoria</Link>
+            <Link href="/Vistoria/Cadastros/Cadastro">Vistoria</Link>
           </div>
           <div className={styles.botao}>
             <Link href="/Tecnologias/tecnologias">Tecnologias</Link>

@@ -23,7 +23,7 @@ export default function instrucoesfotobike() {
                    <p>Se entende e deseja prosseguir, clique o botão abaixo</p>
                 </section>
                 <section>
-                <Link href="../Instrucoes/instrucoesfotonumeroserie">Entendo</Link>
+                <Link href="../Instrucoes/InstrucoesFotoNumeroSerie">Entendo</Link>
                 </section>
             </main>
         </div>

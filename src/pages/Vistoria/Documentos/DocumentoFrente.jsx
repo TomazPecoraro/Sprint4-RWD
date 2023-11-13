@@ -22,7 +22,7 @@ export default function documentofrente() {
                     <Image src="/12.png" width={213}height={292}/>
                 </section>
                 <section>
-                <Link href="./documentoverso">Próximo</Link>
+                <Link href="./DocumentoVerso">Próximo</Link>
                 </section>
             </main>
         </div>

@@ -33,7 +33,7 @@ export default function vistoria() {
                         </div>
                     </form>
                     <section>
-                    <Link href="../Instrucoes/instrucoesdocumento">Finaliza</Link>
+                    <Link href="../Instrucoes/InstrucoesDocumento">Finaliza</Link>
                     </section>
                 </section>
             </main>

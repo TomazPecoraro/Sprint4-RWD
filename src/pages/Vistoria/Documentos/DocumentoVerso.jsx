@@ -22,7 +22,7 @@ export default function documentoverso() {
                     <Image src="/13.png" width={211}height={295}/>
                 </section>
                 <section>
-                <Link href="../Fotos/fotoselfie">Próximo</Link>
+                <Link href="../Fotos/FotoSelfie">Próximo</Link>
                 </section>
             </main>
         </div>

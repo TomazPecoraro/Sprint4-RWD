@@ -24,7 +24,7 @@ export default function InstrucoesFotoNumeroSerie() {
                     <Image src="/15.png" width={249}height={146}/>
                 </section>
                 <section>
-                    <Link href="../Fotos/fotonumeroserie">Prosseguir para Captura</Link>
+                    <Link href="../Fotos/FotoNumeroSerie">Prosseguir para Captura</Link>
                 </section>
             </main>
         </div>

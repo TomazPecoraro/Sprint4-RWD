@@ -22,7 +22,7 @@ export default function fotoselfie() {
                     <Image src="/14.png" width={157}height={206}/>
                 </section>
                 <section>
-                    <Link href="../Cadastros/cadastrobike">Enviar</Link>
+                    <Link href="../Cadastros/CadastroBike">Enviar</Link>
                 </section>
             </main>
         </div>

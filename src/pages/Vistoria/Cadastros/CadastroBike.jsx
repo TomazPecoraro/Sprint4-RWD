@@ -47,7 +47,7 @@ export default function cadastrobike() {
                     </form>
                     </section>
                 <section>
-                <Link href="./cadastrobike2">Próximo</Link>
+                <Link href="./CadastroBike2">Próximo</Link>
                 </section>
             </main>
         </div>

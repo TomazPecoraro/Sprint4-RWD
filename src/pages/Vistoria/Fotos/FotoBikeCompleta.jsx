@@ -24,7 +24,7 @@ export default function fotobikecompleta() {
                     <Image src="/16.png" width={219}height={292}/>
                 </section>
                 <section>
-                    <Link href="../Fotos/fotobikecompleta2">Enviar</Link>
+                    <Link href="../Fotos/FotoBIkeCompleta2">Enviar</Link>
                 </section>
             </main>
         </div>

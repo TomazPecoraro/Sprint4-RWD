@@ -24,7 +24,7 @@ export default function fotonumeroserie2() {
                     <Image src="/16.png" width={219}height={292}/>
                 </section>
                 <section>
-                    <Link href="../Instrucoes/instrucoesfotobikecompleta">Enviar</Link>
+                    <Link href="../Instrucoes/InstrucoesFotoBikeCompleta">Enviar</Link>
                 </section>
             </main>
         </div>

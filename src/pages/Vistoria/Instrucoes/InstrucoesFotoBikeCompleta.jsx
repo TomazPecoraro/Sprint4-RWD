@@ -36,7 +36,7 @@ export default function instrucoesfotobikecompleta() {
                     <Image src="/20.png" width={126}height={107}/>
                 </section>
                 <section>
-                    <Link href="../Fotos/fotobikecompleta">Próxima</Link>
+                    <Link href="../Fotos/FotoBikeCompleta">Próxima</Link>
                 </section>
             </main>
         </div>

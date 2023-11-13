@@ -27,7 +27,7 @@ export default function instruçõesdocumento() {
                     <button>CPF</button>
                 </section>
                 <section>
-                <Link href="../Documentos/documentofrente">Próximo</Link>
+                <Link href="../Documentos/DocumentoFrente">Próximo</Link>
                 </section>
             </main>
         </div>

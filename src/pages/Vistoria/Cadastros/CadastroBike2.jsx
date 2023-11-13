@@ -45,7 +45,7 @@ export default function cadastrobike2() {
                     </form>
                     </section>
                 <section>
-                <Link href="../Instrucoes/instrucoesfotobike">Próximo</Link>
+                <Link href="../Instrucoes/InstrucoesFotoBike">Próximo</Link>
                 </section>
             </main>
         </div>
