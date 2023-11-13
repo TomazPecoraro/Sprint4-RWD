@@ -1,0 +1,50 @@
+.sessao1 {
+    display: flex;
+}
+
+.sessao2{
+    display: flex;
+    padding: 50px;
+}
+
+.especialidades {
+    display: flex;
+    flex-direction: column ;
+    margin-left: 50px;
+    text-align:left;
+}
+
+.texto {
+    text-align: left;
+    font-size:20px;
+}
+
+.titulooquee {
+    text-align: left;
+}
+
+.oquee {
+    margin-left: 65px;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+
+.imagem01 {
+    padding: 20px;
+    padding-right: 150px;
+}
+
+.imagem02 {
+    padding: 20px;
+    padding-left: 200px;
+}
+
+.tituloespecialidades {
+    font-size: 25px;
+    text-align: left;
+}
+
+.topicos {
+    font-size: 25px;
+    text-align: left;
+}
