@@ -3,7 +3,7 @@ import Header from '../../../components/Cabecalho/cabecalho';
 import Link from 'next/link';
 import styles from './instrucoes.module.css';
 
-export default function DocumentoVerso() {
+export default function instrucoesfotobike() {
     return (
         <div>
             <header>

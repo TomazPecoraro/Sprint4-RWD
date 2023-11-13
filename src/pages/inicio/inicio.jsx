@@ -2,7 +2,7 @@ import '../../app/globals.css'
 import Image from "next/image";
 import styles from './inicio.module.css'
 
-export default function Inicio() {
+export default function inicio() {
    return (
   <div>
     <main className={styles.center}>

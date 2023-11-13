@@ -3,7 +3,7 @@ import Image from 'next/image';
 import Header from '../../components/Cabecalho/cabecalho';
 import Rodape from '@/components/Rodape/rodape';
 
-export default function Tecnologias() {
+export default function tecnologias() {
   return (
     <div>
       <header>

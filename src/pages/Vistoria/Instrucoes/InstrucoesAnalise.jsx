@@ -4,7 +4,7 @@ import Link from 'next/link';
 import Image from "next/image";
 import styles from './instrucoes.module.css';
 
-export default function InstrucoesAnalise() {
+export default function instrucoesanalise() {
     return (
         <div>
             <header>

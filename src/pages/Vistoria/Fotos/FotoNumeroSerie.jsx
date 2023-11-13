@@ -4,7 +4,7 @@ import Link from 'next/link';
 import Image from "next/image";
 import styles from './fotos.module.css';
 
-export default function FotoNumeroSerie() {
+export default function fotonumeroserie() {
     return (
         <div>
             <header>
