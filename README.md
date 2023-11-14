@@ -33,3 +33,10 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 Link publico: https://sprint4-rwd-tomazpecoraro.vercel.app?_vercel_share=3V3iD1RZZMtIRwaMCmULVfJ11NE24jo2
 Link Repositório: https://github.com/TomazPecoraro/Sprint4-RWD
+
+## Integrantes Grupo
+
+--RM551737 - Alexandre Portugal do Nascimento Teles (turma 1TDSPX)
+--RM98249 - Felipe Sieiro Paim dos Santos (turma 1TDSPX)
+--RM551643 - Jonathan Mateus Souza de Moraes (turma 1TDSPX)
+--RM98499 - Tomaz de Oliveira Pecoraro (1TDSPM)
